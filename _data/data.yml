@@ -47,6 +47,10 @@ education:
       university: 초졸
       time:
       details: |
+        테디에서 이상한거배움
+
+          - 누구보다빠르게 ALT TAB 누르기
+          - Eclipse켜놓고 OP.GG보기
 
 experiences:
     - role: Game BETA Tester
@@ -58,13 +62,6 @@ experiences:
           - Bluehole studio - AIR 1st CBT Tester
           - Riot games - League of Legends client BETA tester
           - Smilegate - LostARK 1st CBT Tester
-
-     - role: 롤 골드찍기
-       time: 2018 LOL season 8
-       details: 실버5에서 이대로는 안되겠다고 생각하여 10연승을 하여 실버 3까지 티어 상승.
-                하지만 이후 내리 8연패를 하며 다시 실버 5로 복귀
-                결국 실버5로 시즌 8 마무리.
-                현재 프리시즌에도 실버5이다.
 
 projects:
     title: Projects
@@ -95,5 +92,5 @@ skills:
       - name: C#
         level: 30%
 
-      - name: JAVA
+      - name: Java
         level: 30%
