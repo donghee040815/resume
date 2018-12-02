@@ -65,6 +65,7 @@ experiences:
 
      - role: 롤 골드찍기
        time: League of Legends Season 8
+       company: Riot Games
        details: |
          실버 5 때에 이대론 안되겠다 싶어서 티어를 올리겠다고 마음먹음
          그 후 10연승을 하며 실버3으로 승급
@@ -74,6 +75,7 @@ experiences:
 
      - role: 로스트아크 50레벨찍기
        time: LostARK OBT
+       company: Smilegate
        details: |
          로스트아크 50레벨을 찍고 바드를 키우기로 결심
          하지만 16000명에 달하는 대기열과 시험기간으로 인해
@@ -81,6 +83,7 @@ experiences:
 
       - role: 사람되기
         time: 평생
+        company: 독서실
         details: |
          유사인간에서 사람이 되기로 결심
          하지만 김동희라서 불가능
@@ -88,6 +91,7 @@ experiences:
 
       - role: 시험공부
         time: 2학기 기말고사
+        company: 학교
         details: |
          집에서 공부하려 했지만 10분공부하고 5시간 놂
          1차포기
